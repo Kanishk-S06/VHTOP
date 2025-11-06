@@ -6,10 +6,4 @@ For students, VHTOP addresses several pain points commonly experienced in hostel
 For hostel staff and administrators, VHTOP offers efficient management tools. Keep track of laundry submissions with the Chotta Dhobi section and manage records of lost items through the Lost and Found feature. Stay organized with the Xerox Service, which includes a waiting list and order tracking for both AB1 and AB2 options.
 With VHTOP, we aim to revolutionize hostel living by providing a platform that not only addresses common challenges but also enhances communication, convenience, and overall satisfaction for all users. Experience the future of hostel management with VHTOP – where comfort meets efficiency.
 
-### Team Members
-- Mohammad Shahzil (22MIS1161)
-- Aviral Srivastava (22BAI1187)
-- Kanishk Sharma (22BCE1416)
-- Siddharth Tripathi (22MIA1029)
-- Sreevallabh (22MIS1170) 
 
